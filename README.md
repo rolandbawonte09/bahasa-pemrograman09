@@ -2,8 +2,7 @@
  bahasa pemrograman
 
 
-attack speed
-phsyical penetration
+buff ungu
 
 
 
